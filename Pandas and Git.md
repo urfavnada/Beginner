@@ -73,17 +73,17 @@ print(c)
 
 - Which of the following is a function in NumPy used for carrying out Einstein summations?
 
-    - [ ] `np.tensordot()`
-    - [ ]  `np.dot()`
-    - [ ]  `np.einsum()`
-    - [ ]  `np.outer()`
+    - [ ]  `np.tensordot()`
+    - [ ]  `np.dot()`
+    - [ ]  `np.einsum()`
+    - [ ]  `np.outer()`
 
 - The np.outer function is primarily intended for:
 
-    - [ ]  Computing the tensor dot product of two arrays.
-    - [ ]  Computing the outer product of two arrays.
-    - [ ]  Computing the inner product of two arrays.
-    - [ ]  Computing the cross product of two arrays.
+    - [ ]  Computing the tensor dot product of two arrays.
+    - [ ]  Computing the outer product of two arrays.
+    - [ ]  Computing the inner product of two arrays.
+    - [ ]  Computing the cross product of two arrays.
 
 
 ### 3. Pandas and Matplotlib 📈
