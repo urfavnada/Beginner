@@ -185,3 +185,8 @@ I know you are all familiar with Git, but let's see how much you know about it! 
 - Which vendor acquired GitHub for $7.5 billion in June 2018?
 
 You may want to check [this](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=16813s)
+
+## Problem Solving 🤔
+[A. Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A)
+
+[A. Again Twenty Five!](https://codeforces.com/problemset/problem/630/A)
