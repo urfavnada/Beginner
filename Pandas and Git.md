@@ -1,5 +1,5 @@
 # Pandas 🐼 and Git 🫴🏼 task
-This task is fully customizable, you can choose to do it however may you like, but you have to do it. You are encouraged to use the internet to search for answers, use information from the task Menna sent you, and use info from this task there.And of course ask your colleagues for help whenever you need it! 🤗
+This task is fully customizable, you can choose to do it however may you like, but you have to do it. You are encouraged to use the internet to search for answers, use information from the task Menna sent you, and use info from this task there. And of course ask your colleagues for help whenever you need it! 🤗
 ## Pandas 🐼
 
 ### 1. What is Pandas?
@@ -78,7 +78,7 @@ print(c)
     - [ ]  `np.einsum()`
     - [ ]  `np.outer()`
 
-- The np.outer function is primarily intended for:
+- The `np.outer` function is primarily intended for:
 
     - [ ]  Computing the tensor dot product of two arrays.
     - [ ]  Computing the outer product of two arrays.
